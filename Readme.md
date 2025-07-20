@@ -4,7 +4,7 @@ This project contains a comprehensive Databricks notebook for performing data an
 
 ## 📁 Files
 
-- `databricks_converted_notebook.ipynb` – The main analysis notebook (converted from Databricks to Jupyter format).
+- `Pyspark - basic.py` – The main analysis notebook (converted from Databricks to Jupyter format).
 - `BigMart Sales.csv` – The dataset used for analysis (stored on Databricks Volumes).
 - Other auxiliary data files used: `drivers.json`.
 
